@@ -1,4 +1,5 @@
 Мій перший репозиторій
+commit 2
 
 
 echo "# Repository-name - LR1" >> README.md 
